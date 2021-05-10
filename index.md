@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Welkom op ICT BA Nekkerspoel
 
 You can use the [editor on GitHub](https://github.com/ivanmalinas/github-pages-with-jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Ondertitel
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
